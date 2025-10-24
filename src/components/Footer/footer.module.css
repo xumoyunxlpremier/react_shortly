@@ -5,7 +5,7 @@
 /* CTA (Top) */
 .footertop {
     background: hsl(257, 27%, 26%);
-    background-image: url("/img/backpuprle.svg");
+    background-image: url("./backpuprle.svg");
     background-size: cover;
     background-position: top right;
     text-align: center;

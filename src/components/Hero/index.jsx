@@ -22,7 +22,7 @@ export default function Hero() {
 
                         <div className={style.heroimg}>
                             <img
-                                src="./main.comp.svg"
+                                src="./working_with_computer.png"
                                 alt="Hero illustration"
                             />
                         </div>
